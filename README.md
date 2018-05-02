@@ -130,3 +130,10 @@ This is the screenshot of the solution of the project.
 
 ![Simulator Kidnapped Vehicle Passed](images/particle_filter.PNG)
 
+I used a number of particles of 1000.
+
+## Number of paricles
+I tried different number of particles to show how the filter is performing.
+With a lower number the accuracy is a little bit lower, but the time is ok. Whit high numbers the accuracy is better, but the time is growing very fast.
+
+![Number of particles simulation](images/number_particles.PNG)
