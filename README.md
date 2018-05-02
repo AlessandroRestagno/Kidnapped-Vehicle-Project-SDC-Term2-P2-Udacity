@@ -126,7 +126,7 @@ You can find the inputs to the particle filter in the `data` directory.
 > * Map data provided by 3D Mapping Solutions GmbH.
 
 ## Solution of the project
-
+This is the screenshot of the solution of the project.
 
 ![Simulator Kidnapped Vehicle Passed](images/particle_filter.PNG)
 
