@@ -127,3 +127,6 @@ You can find the inputs to the particle filter in the `data` directory.
 
 ## Solution of the project
 
+
+![Simulator Kidnapped Vehicle Passed](images/simulator_final_state.png)
+
