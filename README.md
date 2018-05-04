@@ -141,12 +141,12 @@ The things the grading code is looking for are:
 
 ## Final result
 This is the final result of my particle filter
-![Final Result](images/)
+![Final Result](images/particle_filter.PNG)
 
 ## Different number of particles
 I tried different number of particle to discover which works best.
 Considering time and accuracy, I found that 1,000 particles was the best solution.
-![Number of particles](images/)
+![Number of particles](images/number_particles.PNG)
 
 
 
